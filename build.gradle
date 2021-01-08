@@ -1,7 +1,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
-    ext.kotlin_version = '1.4.30-M1'
+    ext.kotlin_version = '1.4.20'
     repositories {
         maven { url "http://172.28.2.228:8081/nexus/content/groups/android_public/" }
         maven { url "http://maven.aliyun.com/nexus/content/groups/public" }

@@ -7,8 +7,8 @@
 #define LOGD(...)  __android_log_print(ANDROID_LOG_DEBUG,TAG,__VA_ARGS__)
 
 //签名信息
-//const char *app_sha1 = "8A2BSBCSWSB25097SX110A02B7815537CCASDWR6";
-const char *app_sha1 = "6A68B6BDBBB7E79772B2A075A7815537CCA57F6F";
+const char *app_sha1 = "8A2BSBCSWSB25097SX110A02B7815537CCASDWR6";
+//const char *app_sha1 = "6A68B6BDBBB7E79772B2A075A7815537CCA57F6F";
 const char hexcode[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E',
                         'F'};
 
